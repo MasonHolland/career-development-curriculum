@@ -2,11 +2,11 @@
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Flower Exercise [link](http://imgur.com/URruITR)
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: [link](https://www.dropbox.com/s/cqeqy1i6x6bxjvw/Mason%20Holland%20CV.pdf?dl=0)
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [link](https://www.turing.io/alumni/mason-holland)
+* Flower Exercise [link-to-image](http://imgur.com/URruITR)
 * Trello Board: [link](https://trello.com/b/TdSx0f6Q/job-search)
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Job search action plan for M4: [link-to-gist](https://gist.github.com/MasonHolland/f3b5994d7e8e527664a08aa1f386e15b)
 
 ## Mod 2 Deliverables:
 * Link to gist documenting mentor outreach:

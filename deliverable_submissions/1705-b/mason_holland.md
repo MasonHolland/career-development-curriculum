@@ -5,12 +5,12 @@ Students should clone their individual file and update them with gist links for 
 ## Mod 3 Round Two:
 Submit a PR with updates to these deliverables:
 
-* Link to updated resume from feedback provided on July 18th: 
-* LinkedIn: 
-     * Provide 2-3 small paragraphs detailing who you are, why you have transitioned to software development and where you'd like to go from here
+* Link to updated resume from feedback provided on July 18th: [link](https://www.dropbox.com/s/oe5yikt10623k2l/Mason%20Holland.pdf?dl=0)
+* LinkedIn: [link](https://www.linkedin.com/in/mason-holland/)
+     * Provide 2-3 small paragraphs detailing who you are, why you have transitioned to software development and where you'd like to go from here 
      * Include employers with descriptions
      * Projects section
-* Add 10 companies added to Trello job tracker 
+* Add 10 companies added to Trello job tracker [link](https://trello.com/invite/b/TdSx0f6Q/ef55223da5a7b2446ee7fd9f63c6bd1d/job-search)
 
 ## Mod 3 Deliverables:
 
